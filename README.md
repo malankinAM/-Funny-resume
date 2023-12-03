@@ -10,5 +10,5 @@
  
 
 
-## Click ('https://malankinam.github.io/1Newspaper_Alaska_Alex1/')
- <img src="./images/screencapture-127-0-0-1-5500-index-html-2023-12-03-08_51_31.png" title="css"  width="200" height="800"/>
+## Click ('https://malankinam.github.io/-Funny-resume/')
+ <img src="./images/screencapture-127-0-0-1-5500-index-html-2023-12-03-08_51_31.png" title="css"  width="400" height="800"/>
